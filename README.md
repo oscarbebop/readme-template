@@ -9,7 +9,7 @@
 
 <!-- TITLE -->
 <div align="center">
-  <p><strong>The title of your project<strong><p>
+  <p><strong>The title of your project</strong><p>
 </div>
 
 <!-- DESCRIPTION -->
@@ -25,8 +25,6 @@
     <img src="https://img.shields.io/badge/Demo-link-blue" />
   </a>
 </div>
-
-<hr / >
 
 <!-- FEATURES -->
 

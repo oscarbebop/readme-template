@@ -14,7 +14,10 @@
 
 <!-- DESCRIPTION -->
 
-<div align="center">Short explanation of your project and its functionality.</div>
+<div align="center">
+  <p>This is an overview of the project, detailing more the functions, features and examples.</p>
+  <p>This is a custom README template for github projects. You can modify it and use it the way you prefer. If you have any suggestions you can contribute to the project.</p>
+</div>
 
 <!-- Badges -->
 <div align="center">

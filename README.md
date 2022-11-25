@@ -22,7 +22,7 @@
 <!-- Badges -->
 <div align="center">
   <br />
-  <img src="https://img.shields.io/badge/PRs-wlecome-blue" />
+  <img src="https://img.shields.io/badge/PRs-welcome-blue" />
   <img src="https://img.shields.io/badge/licence-MIT-blue" />
   <a href="https://example.com"> 
     <img src="https://img.shields.io/badge/Demo-link-blue" />
